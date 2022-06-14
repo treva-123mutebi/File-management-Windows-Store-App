@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</Source>
+    <SmallTileSource>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</SmallTileSource>
+    <MediumTileSource>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</MediumTileSource>
+    <WideTileSource>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</WideTileSource>
+    <LargeTileSource>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</LargeTileSource>
+    <AppIconSource>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</AppIconSource>
+    <SplashScreenSource>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\FileManagement\FileManagement\Assets\google-docs.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
